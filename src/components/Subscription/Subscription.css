@@ -1,0 +1,15 @@
+.card {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 3%;
+  width: 20%;
+}
+
+.subscription-title {
+  text-align: center;
+}
+
+.subscription-logo {
+  display: block;
+  margin: 0 auto;
+}
